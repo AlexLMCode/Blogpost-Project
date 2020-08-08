@@ -84,14 +84,14 @@ main {
   margin-bottom: 2rem;
 }
 
-/* .main-blog-image {
-  margin-top: 25px;
-  height: 700px;
-} */
+.main-blog-image {
+  text-align: center;
+}
 
 .main-blog-image img {
-  width: 100vw;
-  height: auto;
+  width: 90vw;
+  height: 600px;
+  border-radius: 10px;
   /* margin: 0 auto; */
 }
 

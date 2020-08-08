@@ -116,6 +116,7 @@ nav .profile-link a {
   font-weight: 900;
   height: 60px;
   border-radius: 10px;
+  border: none;
 }
 
 @media (max-width: 425px) {
